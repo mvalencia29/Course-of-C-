@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Poocs\Poocs8\bin\Debug\Poocs8.exe.config
+C:\Users\HP\source\repos\Poocs\Poocs8\bin\Debug\Poocs8.exe
+C:\Users\HP\source\repos\Poocs\Poocs8\bin\Debug\Poocs8.pdb
+C:\Users\HP\source\repos\Poocs\Poocs8\obj\Debug\Poocs8.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Poocs\Poocs8\obj\Debug\Poocs8.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Poocs\Poocs8\obj\Debug\Poocs8.exe
+C:\Users\HP\source\repos\Poocs\Poocs8\obj\Debug\Poocs8.pdb

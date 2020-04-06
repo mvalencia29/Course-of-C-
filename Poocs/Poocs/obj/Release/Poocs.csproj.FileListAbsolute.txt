@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Poocs\Poocs\bin\Release\Poocs.exe.config
+C:\Users\HP\source\repos\Poocs\Poocs\bin\Release\Poocs.exe
+C:\Users\HP\source\repos\Poocs\Poocs\bin\Release\Poocs.pdb
+C:\Users\HP\source\repos\Poocs\Poocs\obj\Release\Poocs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Poocs\Poocs\obj\Release\Poocs.exe
+C:\Users\HP\source\repos\Poocs\Poocs\obj\Release\Poocs.pdb
+C:\Users\HP\source\repos\Poocs\Poocs\obj\Release\Poocs.csprojAssemblyReference.cache

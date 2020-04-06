@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\Poocs\Poocs1\bin\Debug\Poocs1.exe.config
+C:\Users\HP\source\repos\Poocs\Poocs1\bin\Debug\Poocs1.exe
+C:\Users\HP\source\repos\Poocs\Poocs1\bin\Debug\Poocs1.pdb
+C:\Users\HP\source\repos\Poocs\Poocs1\obj\Debug\Poocs1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Poocs\Poocs1\obj\Debug\Poocs1.exe
+C:\Users\HP\source\repos\Poocs\Poocs1\obj\Debug\Poocs1.pdb

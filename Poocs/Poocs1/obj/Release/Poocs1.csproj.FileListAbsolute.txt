@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Poocs\Poocs1\bin\Release\Poocs1.exe.config
+C:\Users\HP\source\repos\Poocs\Poocs1\bin\Release\Poocs1.exe
+C:\Users\HP\source\repos\Poocs\Poocs1\bin\Release\Poocs1.pdb
+C:\Users\HP\source\repos\Poocs\Poocs1\obj\Release\Poocs1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Poocs\Poocs1\obj\Release\Poocs1.exe
+C:\Users\HP\source\repos\Poocs\Poocs1\obj\Release\Poocs1.pdb
+C:\Users\HP\source\repos\Poocs\Poocs1\bin\Release\Poocs1.exe.CodeAnalysisLog.xml
+C:\Users\HP\source\repos\Poocs\Poocs1\bin\Release\Poocs1.exe.lastcodeanalysissucceeded
